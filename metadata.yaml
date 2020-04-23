@@ -1,0 +1,28 @@
+_repo: The-Deep-Sea-Hunters-Adventures-on-a-Whaler_61867
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verrill, A. Hyatt (Alpheus Hyatt)
+    alias: Verrill, Alpheus Hyatt
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '5100'
+    url: http://www.gutenberg.org/2009/agents/5100
+    wikipedia: https://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
+description: ''
+gutenberg_issued: '2020-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61867'
+  lccn: '22004920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Whaling -- Juvenile fiction'
+- !lcsh 'Sealing -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Deep Sea Hunters: Adventures on a Whaler'
+url: http://www.gutenberg.org/ebooks/61867
